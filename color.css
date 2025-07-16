@@ -1,0 +1,162 @@
+header{
+    background:grey;
+    height:423px;
+    width:925px;
+    border-radius: 99px;
+    margin:auto;
+    border:4px solid black;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    gap:34px;
+}
+.red{
+    color:white;
+    background:red;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+.orange{
+    color:white;
+    background:orange;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+.yellow{
+    color:black;
+    background:yellow;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+.green{
+    color:white;
+    background:green;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:34px;
+}
+.cyan{
+    color:white;
+    background:cyan;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+.blue{
+    color:white;
+    background:blue;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+.purple{
+    color:white;
+    background:purple;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+.brown{
+    color:white;
+    background:brown;
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    font-size:23px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:34px;
+}
+.pink{
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    background:pink;
+    font-size:23px;
+}
+.silver{
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    background:silver;
+    font-size:23px;
+}
+.gold{
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    background:gold;
+    font-size:23px;
+}
+.wheat{
+    width:215px;
+    height:94px;
+    border-radius:99px;
+    border:none;
+    background:wheat;
+    font-size:23px;
+}
+.Clear{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Cleaner{
+    background-color: black;
+    height:76px;
+    width:556px;
+    border-radius: 99px;
+    border:none;
+    color:white;
+    font-size:34px;
+}
+button{
+    font-weight: 600;
+}
+.Visib{
+    background-color: black;
+    height:76px;
+    width:556px;
+    border-radius: 99px;
+    border:none;
+    color:white;
+    font-size:34px;
+}
+.Visibility{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
